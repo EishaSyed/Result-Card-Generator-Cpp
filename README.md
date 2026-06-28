@@ -54,4 +54,4 @@ A console-based Result Card Generator built in C++ as part of my Data Structures
 - Standard Template Libraries (if used)
 
 ## Sample Output
-![Result Card Output](screenshots/result-card-output.png)
+![Result Card Output](result-card-output.png)
